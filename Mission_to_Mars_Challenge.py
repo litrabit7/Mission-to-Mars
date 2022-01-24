@@ -90,7 +90,7 @@
     {
      "data": {
       "text/plain": [
-       "<div class=\"content_title\">NASA's Perseverance Rover Attached to Atlas V Rocket</div>"
+       "<div class=\"content_title\">A Martian Roundtrip: NASA's Perseverance Rover Sample Tubes</div>"
       ]
      },
      "execution_count": 5,
@@ -110,7 +110,7 @@
     {
      "data": {
       "text/plain": [
-       "\"NASA's Perseverance Rover Attached to Atlas V Rocket\""
+       "\"A Martian Roundtrip: NASA's Perseverance Rover Sample Tubes\""
       ]
      },
      "execution_count": 6,
@@ -132,7 +132,7 @@
     {
      "data": {
       "text/plain": [
-       "'Ready for its launch later in the month, the Mars-bound rover will touch terra firma no more.'"
+       "\"Marvels of engineering, the rover's sample tubes must be tough enough to safely bring Red Planet samples on the long journey back to Earth in immaculate condition. \""
       ]
      },
      "execution_count": 7,
@@ -214,9 +214,9 @@
        "<h2 class=\"brand_title\">FEATURED IMAGE</h2>\n",
        "<h1 class=\"media_feature_title\">Dusty Space Cloud</h1>\n",
        "<br/>\n",
-       "<a class=\"showimg fancybox-thumbs\" href=\"image/featured/mars3.jpg\" target=\"_blank\"> <button class=\"btn btn-outline-light\"> FULL IMAGE</button></a>\n",
+       "<a class=\"showimg fancybox-thumbs\" href=\"image/featured/mars2.jpg\" target=\"_blank\"> <button class=\"btn btn-outline-light\"> FULL IMAGE</button></a>\n",
        "</div>\n",
-       "<img class=\"headerimage fade-in\" src=\"image/featured/mars3.jpg\"/></div>\n",
+       "<img class=\"headerimage fade-in\" src=\"image/featured/mars2.jpg\"/></div>\n",
        "<div class=\"search sticky\">\n",
        "<div class=\"col-md-12\">\n",
        "<div class=\"row\">\n",
@@ -388,7 +388,7 @@
        "<link href=\"js/fancyBox/jquery.fancybox.css?v=2.1.5\" media=\"screen\" rel=\"stylesheet\" type=\"text/css\"/>\n",
        "<link href=\"js/fancyBox/helpers/jquery.fancybox-thumbs.css?v=1.0.7\" rel=\"stylesheet\" type=\"text/css\"/>\n",
        "<script src=\"js/fancyBox/helpers/jquery.fancybox-thumbs.js?v=1.0.7\" type=\"text/javascript\"></script>\n",
-       "<div class=\"fancybox-overlay fancybox-overlay-fixed\" style=\"width: auto; height: auto; display: block;\"><div class=\"fancybox-wrap fancybox-desktop fancybox-type-image fancybox-opened\" style=\"width: 670px; height: auto; position: absolute; top: 173px; left: 68px; opacity: 1; overflow: visible;\" tabindex=\"-1\"><div class=\"fancybox-skin\" style=\"padding: 15px; width: auto; height: auto;\"><div class=\"fancybox-outer\"><div class=\"fancybox-inner\" style=\"overflow: visible; width: 640px; height: 350px;\"><img alt=\"\" class=\"fancybox-image\" src=\"image/featured/mars3.jpg\"/></div></div><a class=\"fancybox-item fancybox-close\" href=\"javascript:;\" title=\"Close\"></a></div></div></div></body></html>"
+       "<div class=\"fancybox-overlay fancybox-overlay-fixed\" style=\"width: auto; height: auto; display: block;\"><div class=\"fancybox-wrap fancybox-desktop fancybox-type-image fancybox-opened\" style=\"width: 670px; height: auto; position: absolute; top: 173px; left: 68px; opacity: 1; overflow: visible;\" tabindex=\"-1\"><div class=\"fancybox-skin\" style=\"padding: 15px; width: auto; height: auto;\"><div class=\"fancybox-outer\"><div class=\"fancybox-inner\" style=\"overflow: visible; width: 640px; height: 350px;\"><img alt=\"\" class=\"fancybox-image\" src=\"image/featured/mars2.jpg\"/></div></div><a class=\"fancybox-item fancybox-close\" href=\"javascript:;\" title=\"Close\"></a></div></div></div></body></html>"
       ]
      },
      "execution_count": 10,
@@ -411,7 +411,7 @@
     {
      "data": {
       "text/plain": [
-       "'image/featured/mars3.jpg'"
+       "'image/featured/mars2.jpg'"
       ]
      },
      "execution_count": 11,
@@ -433,7 +433,7 @@
     {
      "data": {
       "text/plain": [
-       "'https://spaceimages-mars.com/image/featured/mars3.jpg'"
+       "'https://spaceimages-mars.com/image/featured/mars2.jpg'"
       ]
      },
      "execution_count": 12,
@@ -685,7 +685,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 17,
+   "execution_count": 21,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -718,7 +718,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 18,
+   "execution_count": 22,
    "metadata": {},
    "outputs": [
     {
@@ -734,7 +734,7 @@
        "  'title': 'Valles Marineris Hemisphere Enhanced'}]"
       ]
      },
-     "execution_count": 18,
+     "execution_count": 22,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -746,7 +746,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 19,
+   "execution_count": 23,
    "metadata": {},
    "outputs": [],
    "source": [
